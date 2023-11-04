@@ -1,0 +1,70 @@
+
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+   
+}
+.N {
+ background-color: #2d3138;
+    padding: 8px 4px;
+    margin: -2px 0px;
+   
+
+}
+
+.img1 {
+    width: 69px;
+    float: left;
+    padding:7px 9px;
+    margin: -5px -9px;
+}
+
+.N ul {
+   
+    margin: 0px 0px;
+}
+
+.N li {
+    display: inline-block;
+    list-style: none;
+    margin: 13px 20px;
+     padding: 2px 9px;
+     
+     color: whitesmoke;
+}
+
+.N li a {
+
+    text-decoration: none;
+    color: whitesmoke;
+    font-family: Teko;
+    font-size: 19px;
+
+
+}
+
+.navbar-left {
+    float: right !important;
+}
+
+.form-group {
+    display: inline-flexbox;
+    padding: 0px 0px;
+    margin-top: 8px;
+}
+
+.form-control {
+    margin-top: -105px;
+    height: 24px;
+    font-family: Teko;
+
+}
+
+.btn-default {
+    height: 30px;
+    margin-top: -94px;
+    padding: 4px 18px;
+    font-family: Teko;
+}
+
+

@@ -1,0 +1,113 @@
+*
+{
+    font-family: teko;
+}
+
+.product-space{
+    padding: 100px 0;
+  }
+  
+  .main-div {
+    display: flex;
+    justify-content: normal;
+    /* align-items: center; */
+    margin-bottom: 15px;
+    background-color:#333;
+    border-radius: 14px;
+    text-decoration-color: white ;
+    box-shadow: 0 5px 10px #000;
+   
+  }
+  
+  .title{
+    width: 0px;
+    height: 0px;
+    display: flex;
+    justify-content: normal;
+    align-items: center;
+    padding: 36px 4px;
+    
+  }
+  
+ 
+  .content{
+    padding-left: 11px;
+    color: yellow;
+  }
+  .main-img img {
+    border-radius: 14px;
+    width: 250px;
+    height: 190px;
+  }
+  
+  .content h4{
+    font-size: 22px;
+    text-transform: capitalize;
+  }
+  .filterItems {
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    background-color: #febe04;
+    color: #000;
+    font-weight: 600;
+    margin: 0 20px;
+    border-radius: 3px;
+    text-align: center;
+  width: 100px;
+    font-size: medium;
+    box-shadow: 0 5px 10px #000;
+  }
+  
+  .category-tabs{
+    /* margin: 0 auto; */
+    text-align: center;
+  }
+
+.C {
+    max-width: 1146px;
+    margin-inline: 89px -123px;
+}
+.py-5 {
+    padding-top: 3rem!important;
+    padding-bottom: 3rem!important;
+    text-align: center;
+    margin-left: 0px;
+    font-size: 69px;
+
+}
+.V
+{
+   background-color: #f0ecec;
+}
+.bu1
+{
+ margin: 0px 0px;
+ padding: 0px 0px;
+
+}
+.bu
+{
+    background-color: #ed3d3d;
+    position: 0px;
+    width: 100px;
+    padding: 12px -4px;
+    margin: 20px -2px;
+    text-align: center;
+    border-radius: -5px;
+    border-color: #000;
+    color: black;
+    font-family: teko;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: 600;
+    text-decoration: none;
+    list-style: none;
+}
+
+.col
+{
+    flex: 0 0 auto;
+    width: 33%;
+   
+}
